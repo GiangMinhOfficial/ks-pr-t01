@@ -1,0 +1,6 @@
+@PFR_NEFC_KS_Practice_T01.API_HostAddress = http://localhost:5165
+
+GET {{PFR_NEFC_KS_Practice_T01.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
